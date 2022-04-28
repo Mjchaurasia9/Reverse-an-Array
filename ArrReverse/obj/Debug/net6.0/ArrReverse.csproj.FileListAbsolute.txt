@@ -1,0 +1,15 @@
+/home/mjchaurasia/C#/ArrReverse/bin/Debug/net6.0/ArrReverse
+/home/mjchaurasia/C#/ArrReverse/bin/Debug/net6.0/ArrReverse.deps.json
+/home/mjchaurasia/C#/ArrReverse/bin/Debug/net6.0/ArrReverse.runtimeconfig.json
+/home/mjchaurasia/C#/ArrReverse/bin/Debug/net6.0/ArrReverse.dll
+/home/mjchaurasia/C#/ArrReverse/bin/Debug/net6.0/ArrReverse.pdb
+/home/mjchaurasia/C#/ArrReverse/obj/Debug/net6.0/ArrReverse.csproj.AssemblyReference.cache
+/home/mjchaurasia/C#/ArrReverse/obj/Debug/net6.0/ArrReverse.GeneratedMSBuildEditorConfig.editorconfig
+/home/mjchaurasia/C#/ArrReverse/obj/Debug/net6.0/ArrReverse.AssemblyInfoInputs.cache
+/home/mjchaurasia/C#/ArrReverse/obj/Debug/net6.0/ArrReverse.AssemblyInfo.cs
+/home/mjchaurasia/C#/ArrReverse/obj/Debug/net6.0/ArrReverse.csproj.CoreCompileInputs.cache
+/home/mjchaurasia/C#/ArrReverse/obj/Debug/net6.0/ArrReverse.dll
+/home/mjchaurasia/C#/ArrReverse/obj/Debug/net6.0/refint/ArrReverse.dll
+/home/mjchaurasia/C#/ArrReverse/obj/Debug/net6.0/ArrReverse.pdb
+/home/mjchaurasia/C#/ArrReverse/obj/Debug/net6.0/ArrReverse.genruntimeconfig.cache
+/home/mjchaurasia/C#/ArrReverse/obj/Debug/net6.0/ref/ArrReverse.dll
